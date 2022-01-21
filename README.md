@@ -5,6 +5,3 @@ python-chess library & pygame library
 
 # To Run:
 Run "chess_main.py"
-
-# About:
-Best AI no doubt
